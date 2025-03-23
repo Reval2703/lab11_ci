@@ -299,7 +299,7 @@ tujuanya agar mendapatkan data aertikel yang baru di ubah
 
 ![image](https://github.com/user-attachments/assets/313b69f7-f993-4487-82ce-22c9817fb689)
 
-contohnya seperti ini
+contohnya seperti ini :
 
 ![image](https://github.com/user-attachments/assets/88d73672-4819-47fa-8d32-1c22c1b740a7)
 
